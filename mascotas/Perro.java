@@ -1,4 +1,4 @@
-package com.up;
+// package com.up;
 
 public class Perro extends AbsMascota{
 
