@@ -1,4 +1,4 @@
-package com.up;
+// package com.up;
 
 public abstract class Producto implements IProducto{
 
